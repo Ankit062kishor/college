@@ -1,0 +1,82 @@
+ body{
+margin:0;
+padding: 0;
+font-family: Arial, Helvetica, sans-serif;
+box-sizing: border-box;
+background:url(study.png);
+backdrop-filter: 10px;
+background-repeat: no-repeat;
+background-size: cover;
+ }
+ h1{
+justify-content: center;
+align-items: center;
+display:  flex;
+}
+.details{
+position: relative;
+height: 850px;
+background: rgb(255 255 255/0.5);
+backdrop-filter:blur(10px);
+overflow: hidden;
+margin: 40px;
+padding: 60px;
+ 
+}
+ .for.submit {
+justify-content: center;
+align-items: center;
+display: flex;
+ }
+ .mark{
+background-color: black;
+justify-content: center;
+align-items: center;
+display:  flex;
+ 
+ }
+
+input {
+    border: none;
+    outline: none;
+    padding: 9px 25px;
+    background: #fff;
+    cursor: pointer;
+    font-size: 0.9em;
+    border-radius: 4px ;
+    font-weight: 600;
+    width: 100px;
+    margin-top: 10px;
+
+}
+.input:active
+{
+opacity: 0.8;
+
+}
+ ul{
+    color: #fff;
+    position: relative;
+    right: 300px;
+ }
+ details{
+    color: #fff;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
